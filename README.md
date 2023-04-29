@@ -14,3 +14,5 @@ Curso completo de programação em Linguagem C.
 06 - Programação em Linguagem C - Função printf - Tamanhos de Campos
 
 07 - Programação em Linguagem C - Função printf - Precisão de Exibição de Dados
+
+08 - Programação em Linguagem C - Função printf - Sequências de Escape
