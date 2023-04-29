@@ -10,3 +10,5 @@ Curso completo de programação em Linguagem C.
 04 - Programação em Linguagem C - Declaração e Atribuição de Variáveis
 
 05 - Programação em Linguagem C - Função printf - Exibindo dados na saída
+
+06 - Programação em Linguagem C - Função printf - Tamanhos de Campos
