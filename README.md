@@ -8,3 +8,5 @@ Curso completo de programação em Linguagem C.
 03 - Programação em Linguagem C - Tipos Básicos (int, float, char, etc.)
 
 04 - Programação em Linguagem C - Declaração e Atribuição de Variáveis
+
+05 - Programação em Linguagem C - Função printf - Exibindo dados na saída
