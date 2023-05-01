@@ -18,3 +18,5 @@ Curso completo de programação em Linguagem C.
 08 - Programação em Linguagem C - Função printf - Sequências de Escape
 
 09 - Programação em Linguagem C - Função scanf - Lendo dados a partir do teclado
+
+10 - Programação em Linguagem C - Operadores e Expressões Aritméticas
